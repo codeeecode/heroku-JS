@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/codeeecode/heroku-JS/issues"
   },
-  "homepage": "https://github.com/codeeecode/heroku-JS#readme"
+  "homepage": "https://github.com/codeeecode/heroku-JS#readme",
+  "engines": {
+    "node": "16.x"
+  }
 }
